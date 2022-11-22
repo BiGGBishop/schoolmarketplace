@@ -2,16 +2,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/oladimejidav/phive">
+  <a href="https://github.com/oladimejidav/schoolmarketplace">
     <img src="public/icon-192x192.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PHive</h3>
+  <h3 align="center">CheapRank</h3>
 
   <p align="center">
     A kind of freelancing website for College
     <br />
-    <a href="https://github.com/oladimejidav/phive"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/oladimejidav/schoolmarketplace"><strong>Explore the docs »</strong></a>
     <br />
 </p>
 
@@ -66,11 +66,11 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/oladimejidav/phive.git
+    git clone https://github.com/oladimejidav/schoolmarketplace.git
     ```
 2. Get into the project
     ```sh
-    cd phive
+    cd schoolmarketplace
     ```
 3. Install the frontend packages (NPM)
     ```sh
@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/oladimejidav/phive](https://github.com/oladimejidav/phive)
+Project Link: [https://github.com/oladimejidav/schoolmarketplace](https://github.com/oladimejidav/schoolmarketplace)
 
 <!-- ACKNOWLEDGEMENTS -->
 
